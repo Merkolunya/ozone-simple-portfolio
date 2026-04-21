@@ -21,7 +21,7 @@ A modern, dark-themed personal portfolio website for **Kolunya Zone (Ozone)**, a
 
 ```text
 /
-├── portfolio/
+├── docs/             # Deployment folder (GitHub Pages)
 │   ├── index.html    # Main entry point
 │   ├── style.css     # Styles and theme variables
 │   └── script.js    # Theme toggle logic
@@ -32,12 +32,13 @@ A modern, dark-themed personal portfolio website for **Kolunya Zone (Ozone)**, a
 
 ## 🌐 Deployment
 
-This project is designed to be deployed via **GitHub Pages**.
+This project is deployed via **GitHub Pages**.
 
 1. Push the code to your GitHub repository.
 2. Go to **Settings > Pages**.
-3. Select the `main` branch and the root directory.
-4. Click **Save**.
+3. Select the `main` branch.
+4. Set the folder to `/docs`.
+5. Click **Save**.
 
 ## 👤 Author
 
